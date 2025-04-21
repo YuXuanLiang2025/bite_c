@@ -1,0 +1,3 @@
+/Users/xuan/Documents/CLionProjects/bite_c/cmake-build-debug/CMakeFiles/bite_c.dir
+/Users/xuan/Documents/CLionProjects/bite_c/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/xuan/Documents/CLionProjects/bite_c/cmake-build-debug/CMakeFiles/rebuild_cache.dir
